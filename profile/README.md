@@ -1,6 +1,6 @@
-# InterPlanetary Data Hub for Open Science/AI
+# InterPlanetary Data Hub for Open Science/AI(IPDH)
 
-Welcome to the **InterPlanetary Data Hub for Open Science/AI**! This project aims to revolutionize how we manage, share, and version control scientific and AI-related data by leveraging cutting-edge decentralized technologies. By integrating a version control filesystem (JZFS) with Filecoin/IPFS, we provide a scalable, secure, and efficient platform for open science.
+Welcome to the **InterPlanetary Data Hub for Open Science/AI(IPDH)**! This project aims to revolutionize how we manage, share, and version control scientific and AI-related data by leveraging cutting-edge decentralized technologies. By integrating a version control filesystem (JZFS) with Filecoin/IPFS, we provide a scalable, secure, and efficient platform for open science.
 
 ## Key Features
 
